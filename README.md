@@ -3,12 +3,12 @@ Build a Chess game in C++
 
 Overview of requirements:
 
-Chess board: 
+__Chess board:__ 
   - Size 8x8 
   - Black/white squares 
   - King starts on same color
     
-Piece Count:
+__Piece Count:__
   - Pawns:   8 
   - Rooks:   2 
   - Knights: 2 
@@ -26,7 +26,7 @@ Pawn promotion/en passat
 
 Look for GUI
 
-Functions Needed:
+__Functions Needed:__
   - Map
   - Players
   - Pieces
