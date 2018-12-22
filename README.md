@@ -15,10 +15,15 @@ Piece Count:
   - Bishops: 2 
   - Queens:  1 
   - Kings:   1
+
 Player: Black pieces/white pieces
+
 No colisions 
+
 Check for check/checkmate 
+
 Pawn promotion/en passat
+
 Look for GUI
 
 Functions Needed:
