@@ -18,7 +18,7 @@ __Piece Count:__
 
 Player: Black pieces/white pieces
 
-No colisions 
+No colissions 
 
 Check for check/checkmate 
 
