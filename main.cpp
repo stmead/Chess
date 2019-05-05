@@ -6,7 +6,8 @@
 #include "gui.h"
 
 int main() {
-  
+  ChessGame game;
+  game.Start();
   
   return 0;
 }
